@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Compiled files
+*.out
+*.exe
+*.o
+a.out
+
+# Zip files
+*.zip
