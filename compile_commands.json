@@ -1,0 +1,7 @@
+[
+  {
+    "directory": "/Users/jiangnanzhang/Library/Mobile Documents/com~apple~CloudDocs/acm",
+    "command": "/usr/bin/clang++ -std=c++17 -I./include -Wall -Wextra -c atcoder/B.cpp",
+    "file": "atcoder/B.cpp"
+  }
+]

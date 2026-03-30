@@ -3,12 +3,70 @@
 
 # VSCode
 .vscode/
+.cursor/
 
 # Compiled files
 *.out
 *.exe
 *.o
 a.out
+*.dSYM
 
 # Zip files
 *.zip
+
+.cache/
+
+atcoder/**/A
+atcoder/**/B
+atcoder/**/C
+atcoder/**/D
+atcoder/**/E
+atcoder/**/F
+atcoder/**/G
+atcoder/**/H
+atcoder/**/I
+atcoder/**/J
+atcoder/**/K
+atcoder/**/L
+
+第十九届程序设计校赛/**/H
+
+交互题/**/A
+交互题/**/B
+交互题/**/C
+交互题/**/D
+交互题/**/E
+交互题/**/F
+交互题/**/G
+交互题/**/H
+交互题/**/I
+交互题/**/J
+交互题/**/K
+交互题/**/L
+
+codeforces/**/A
+codeforces/**/B
+codeforces/**/C
+codeforces/**/D
+codeforces/**/E
+codeforces/**/F
+codeforces/**/G
+codeforces/**/H
+codeforces/**/I
+codeforces/**/J
+codeforces/**/K
+codeforces/**/L
+
+DP/**/A
+DP/**/B
+DP/**/C
+DP/**/D
+DP/**/E
+DP/**/F
+DP/**/G
+DP/**/H
+DP/**/I
+DP/**/J
+DP/**/K
+DP/**/L
