@@ -14,7 +14,7 @@ struct R {
       i++;
     }
     rd++;
-    return 1;
+            return 1;
   }
 };
 struct H {
@@ -124,8 +124,8 @@ static bool lzss_decode_raw(const unsigned char *p, size_t n, vector<unsigned ch
       size_t pos = o.size();
       for (unsigned j = 0; j < len; j++) o.push_back(o[pos - off + j]);
     } else
-      return 0;
-  }
+    return 0;
+}
   return o.size() == expect && si == n;
 }
 

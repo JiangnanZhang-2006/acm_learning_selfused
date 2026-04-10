@@ -51,6 +51,10 @@
 
 - [动态规划](09-dynamic-programming/dynamic-programming.md) - 基本概念、一维/二维DP、背包问题、区间DP、状态压缩、优化技巧
 
+### 洛谷题解
+
+- [P1226 【模板】快速幂](luogu/P1226-快速幂.md) - 二进制快速幂求 $a^b \bmod p$
+
 ---
 
 ## 快速导航
